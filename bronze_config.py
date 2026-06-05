@@ -1,17 +1,17 @@
 INGESTION_CONFIG = [
     {
         "source": "crm",
-        "path": "/Volumes/workspace/bronze/sourcesystem/source_crm/cust_info.csv",
+        "path": "/Volumes/workspace/bronze/source_system/source_crm/cust_info.csv",
         "table": "crm_cust_info"
     },
     {
         "source": "crm",
-        "path": "/Volumes/workspace/bronze/sourcesystem/source_crm/prd_info.csv",
+        "path": "/Volumes/workspace/bronze/source_system/source_crm/prd_info.csv",
         "table": "crm_prd_info"
     },
     {
         "source": "crm",
-        "path": "/Volumes/workspace/bronze/sourcesystem/source_crm/sales_details.csv",
+        "path": "/Volumes/workspace/bronze/source_system/source_crm/sales_details.csv",
         "table": "crm_sales_details"
     },
     {
